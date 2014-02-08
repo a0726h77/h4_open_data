@@ -1,4 +1,4 @@
-INSERT INTO `conference_websites` (`conference_id`, `website_name`, `website_url`) VALUES
+INSERT INTO `conference_websites` (`conference_id`, `name`, `url`) VALUES
 (1,	'PyCon',	'http://tw.pycon.org/'),
 (2,	'RubyConf Taiwan',	'http://rubyconf.tw/'),
 (1,	'Facebook',	'https://www.facebook.com/pycontw'),

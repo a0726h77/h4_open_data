@@ -1,4 +1,4 @@
-INSERT INTO `conference_tags` (`conference_id`, `tag_name`) VALUES
+INSERT INTO `conference_tags` (`conference_id`, `name`) VALUES
 (1,	'Programming'),
 (1,	'Python'),
 (2,	'Programming'),

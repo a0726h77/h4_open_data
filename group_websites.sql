@@ -1,4 +1,4 @@
-INSERT INTO `group_websites` (`group_id`, `website_name`, `website_url`) VALUES
+INSERT INTO `group_websites` (`group_id`, `name`, `url`) VALUES
 (1,	'酷！學園 - 論壇首頁',	'http://phorum.study-area.org/'),
 (1,	'酷！學園 - 論壇 - 活動/聚會區',	'http://phorum.study-area.org/index.php/board,22.0.html?PHPSESSID=fpilbgt39skoig2f7nn0g2ebg0'),
 (1,	'Google+',	'https://plus.google.com/112729012807279156312'),

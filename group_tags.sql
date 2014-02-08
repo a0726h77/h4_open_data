@@ -1,4 +1,4 @@
-INSERT INTO `group_tags` (`group_id`, `tag_name`) VALUES
+INSERT INTO `group_tags` (`group_id`, `name`) VALUES
 (1,	'IT'),
 (2,	'Debian'),
 (2,	'OS'),
