@@ -1,6 +1,6 @@
 INSERT INTO `group_websites` (`group_id`, `name`, `url`) VALUES
 (1,	'酷！學園 - 論壇首頁',	'http://phorum.study-area.org/'),
-(1,	'酷！學園 - 論壇 - 活動/聚會區',	'http://phorum.study-area.org/index.php/board,22.0.html?PHPSESSID=fpilbgt39skoig2f7nn0g2ebg0'),
+(1,	'酷！學園 - 論壇 - 活動/聚會區',	'http://phorum.study-area.org/index.php/board,22.0.html'),
 (1,	'Google+',	'https://plus.google.com/112729012807279156312'),
 (2,	'Facebook',	'https://www.facebook.com/groups/debian.tw/'),
 (3,	'Ubuntu 正體中文站',	'http://www.ubuntu-tw.org/'),
